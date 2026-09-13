@@ -41,6 +41,11 @@
     </dependency>
     <dependency>
       <groupId>run.endive</groupId>
+      <artifactId>wabt</artifactId>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>run.endive</groupId>
       <artifactId>wasm-corpus</artifactId>
       <scope>test</scope>
     </dependency>
